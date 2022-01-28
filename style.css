@@ -94,6 +94,10 @@ Project
   text-align: center;
 }
 
-project .card img {
-  width: 50%;
+#project .card img {
+  width: 110%;
+}
+
+#project .card-title {
+  font-weight: bold;
 }
